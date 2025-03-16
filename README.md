@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/haneul-lee-8b8707298/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>  
-  <a href="https://www.notion.so/IU-220527fa27d54167bd5b041d83df0705?pvs=4">
+  <a href="https://lopsided-bolt-5b6.notion.site/IU-220527fa27d54167bd5b041d83df0705?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>  
 </p>
